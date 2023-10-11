@@ -1,0 +1,83 @@
+[
+    {"product_id": 1, "image": "esquineroPlastico1.webp"},
+    {"product_id": 1, "image": "esquineroPlastico2.webp"},
+    {"product_id": 1, "image": "esquineroPlastico3.webp"},
+    {"product_id": 1, "image": "esquineroPlastico4.webp"},
+
+    {"product_id": 2, "image": "esquineroCarton1.webp"},
+    {"product_id": 2, "image": "esquineroCarton2.webp"},
+    {"product_id": 2, "image": "esquineroCarton3.webp"},
+    {"product_id": 2, "image": "esquineroCarton4.webp"},
+    {"product_id": 2, "image": "esquineroCarton5.webp"},
+    {"product_id": 2, "image": "esquineroCarton6.webp"},
+    {"product_id": 2, "image": "esquineroCarton7.webp"},
+
+    {"product_id": 3, "image": "esquineroBlanco3.webp"},
+    {"product_id": 3, "image": "esquineroBlanco1.webp"},
+    {"product_id": 3, "image": "esquineroBlanco2.webp"},
+
+    {"product_id": 4, "image": "pinzas1.webp"},
+    {"product_id": 4, "image": "pinzas2.webp"},
+
+    {"product_id": 5, "image": "grapaMetal1.webp"},
+    {"product_id": 5, "image": "grapaMetal2.webp"},
+    {"product_id": 5, "image": "grapaMetal3.webp"},
+    {"product_id": 5, "image": "grapaMetal4.webp"},
+    {"product_id": 5, "image": "grapaMetal5.webp"},
+    {"product_id": 5, "image": "grapaMetal6.webp"},
+
+    {"product_id": 6, "image": "tensionera2.webp"},
+    {"product_id": 6, "image": "tensionera1.webp"},
+    {"product_id": 6, "image": "tensionera3.webp"},
+
+    {"product_id": 7, "image": "carrito.webp"},
+
+    {"product_id": 9, "image": "pelletNegro1.webp"},
+    {"product_id": 9, "image": "pelletNegro2.webp"},
+    {"product_id": 9, "image": "pelletNegro3.webp"},
+
+    {"product_id": 8, "image": "pellet1.webp"},
+    {"product_id": 8, "image": "pellet2.webp"},
+    {"product_id": 8, "image": "pellet3.webp"},
+    {"product_id": 8, "image": "pellet4.webp"},
+
+    {"product_id": 10, "image": "flejeVerde1.webp"},
+    {"product_id": 10, "image": "flejeVerde2.webp"},
+    {"product_id": 10, "image": "flejeVerde3.webp"},
+
+    {"product_id": 11, "image": "flejeNaranja5.webp"},
+    {"product_id": 11, "image": "flejeNaranja1.webp"},
+    {"product_id": 11, "image": "flejeNaranja2.webp"},
+    {"product_id": 11, "image": "flejeNaranja3.webp"},
+    {"product_id": 11, "image": "flejeNaranja4.webp"},
+    {"product_id": 11, "image": "flejeNaranja6.webp"},
+    {"product_id": 11, "image": "flejeNaranja7.webp"},
+    {"product_id": 11, "image": "flejeNaranja8.webp"},
+
+    {"product_id": 12, "image": "flejeNegro3.webp"},
+    {"product_id": 12, "image": "flejeNegro1.webp"},
+    {"product_id": 12, "image": "flejeNegro2.webp"},
+    {"product_id": 12, "image": "flejeNegro4.webp"},
+    {"product_id": 12, "image": "flejeNegro5.webp"},
+
+    {"product_id": 13, "image": "flejeBlanco1.webp"},
+    {"product_id": 13, "image": "flejeBlanco2.webp"},
+    {"product_id": 13, "image": "flejeBlanco3.webp"},
+    {"product_id": 13, "image": "flejeBlanco4.webp"},
+
+    {"product_id": 14, "image": "cinta3.webp"},
+    {"product_id": 14, "image": "cinta1.webp"},
+    {"product_id": 14, "image": "cinta2.webp"},
+
+    {"product_id": 15, "image": "cintaCanela.webp"},
+
+    {"product_id": 16, "image": "gel.webp"},
+
+    {"product_id": 17, "image": "peliculaPlastica1.webp"},
+    {"product_id": 17, "image": "peliculaPlastica2.webp"},
+    {"product_id": 17, "image": "peliculaPlastica3.webp"},
+
+    {"product_id": 18, "image": "tarima3.webp"},
+    {"product_id": 18, "image": "tarima1.webp"},
+    {"product_id": 18, "image": "tarima2.webp"}
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Esquinero de Plástico Negro",
+        "category_id": "1",
+        "description": "Uso industrial y agrícola, ideal para ambientes húmedos como cámaras de refrigeración.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "esquineroPlastico1.webp"
+    },
+    {
+        "name": "Esquinero de Cartón",
+        "category_id": "1",
+        "description": "Esquinero de Cartón Kraft para el sector industrial.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "esquineroCarton2.webp"
+    },
+    {
+        "name": "Esquinero de Cartón Blanco",
+        "category_id": "1",
+        "description": "Laminado blanco para el sector agrícola, ideal para uso en cámara de refrigeración.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "esquineroBlanco1.webp"
+    },
+
+    {
+        "name": "Pinzas",
+        "category_id": "2",
+        "description": "Para fleje de plástico.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "pinzas1.webp"
+    },
+    {
+        "name": "Grapa de Metal",
+        "category_id": "2",
+        "description": "Sello metalico en calibre 26 y 24, de tipo Galvaniza, Lizo o Punteado.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "grapaMetal3.webp"
+    },
+    {
+        "name": "Tensionadora Manual",
+        "category_id": "2",
+        "description": "Para fleje de plástico.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "tensionera3.webp"
+    },
+    {
+        "name": "Carrito despachador de Fleje",
+        "category_id": "2",
+        "description": "Carrito despachador para fleje de plastico de tamaño estándar y jumbo.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "carrito.webp"
+    },
+
+    {
+        "name": "Polipropileno Molido",
+        "category_id": "3",
+        "description": "Recuperado y molido.",
+        "featured": true,
+        "price": 0,
+        "mainPhoto": "pellet2.webp"
+    },
+    {
+        "name": "Pellet de Polipropileno",
+        "category_id": "3",
+        "description": "Polipropileno recuperado y peletizado.",
+        "featured": true,
+        "price": 0,
+        "mainPhoto": "pelletNegro2.webp"
+    },
+
+    {
+        "name": "Fleje de Poliéster Verde",
+        "category_id": "4",
+        "description": "Fleje de poliéster verde de alta resistencia, provee estabilidad y protección durante el transporte.",
+        "featured": true,
+        "price": 0,
+        "mainPhoto": "flejeVerde3.webp"
+    },
+    {
+        "name": "Fleje de Poliéster Naranja",
+        "category_id": "4",
+        "description": "Fleje de poliéster verde de alta resistencia, provee estabilidad y protección durante el transporte.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "flejeNaranja3.webp"
+    },
+
+    {
+        "name": "Fleje de Polipropileno Negro",
+        "category_id": "4",
+        "description": "Fleje de polipropileno negro para uso manual donde se requiere alta resistencia mecánica, buena elongación y tensión de flejado.",
+        "featured": true,
+        "price": 0,
+        "mainPhoto": "flejeNegro5.webp"
+    },
+    {
+        "name": "Fleje de Polipropileno Blanco",
+        "category_id": "4",
+        "description": "Fleje de polipropileno blanco para uso manual donde se requiere alta resistencia mecánica, buena elongación y tensión  de flejado.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "flejeBlanco4.webp"
+    },
+
+    {
+        "name": "Cinta Reforzada",
+        "category_id": "5",
+        "description": "Uso manual y automatico.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "cinta3.webp"
+    },
+    {
+        "name": "Cinta Adhesiva",
+        "category_id": "5",
+        "description": "Diversidad de cintas de color canela o natural para uso manual y automatico.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "cintaCanela.webp"
+    },
+
+    {
+        "name": "Gel Refrigerante",
+        "category_id": "6",
+        "description": "Pendiente.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "gel.webp"
+    },
+
+    {
+        "name": "Pelicula plastica",
+        "category_id": "7",
+        "description": "Importante para embalar mercancía para distribución y almacenaje.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "peliculaPlastica3.webp"
+    },
+
+    {
+        "name": "Tarima Uso Ligero",
+        "category_id": "9",
+        "description": "Tarima de alta durabilidad reutilizable, lavable y ligera para ahorro en transporte.",
+        "featured": false,
+        "price": 0,
+        "mainPhoto": "tarima2.webp"
+    }
+]

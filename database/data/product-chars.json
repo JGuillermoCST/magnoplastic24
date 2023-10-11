@@ -1,0 +1,57 @@
+[
+    {"product_id": 1, "feature": "Medidas estándar: 1.80, 1.90, 1.95, 2.00, 2.10, 2.20"},
+    {"product_id": 1, "feature": "Medidas por cada ala: 3.5cm, 4.0cm"},
+    {"product_id": 1, "feature": "Mayor estabilidad del conjunto de carga"},
+    {"product_id": 1, "feature": "Mayor resistencia a golpes en las esquinas"},
+    {"product_id": 1, "feature": "Mayor soporte en las vibraciones y movimientos durante el transporte"},
+
+    {"product_id": 2, "feature": "Mayor estabilidad del conjunto de carga"},
+    {"product_id": 2, "feature": "Mayor resistencia a golpes en las esquinas"},
+    {"product_id": 2, "feature": "Mayor soporte en las vibraciones y movimientos durante el transporte"},
+
+    {"product_id": 3, "feature": "Mayor estabilidad del conjunto de carga"},
+    {"product_id": 3, "feature": "Mayor resistencia a golpes en las esquinas"},
+    {"product_id": 3, "feature": "Mayor soporte en las vibraciones y movimientos durante el transporte"},
+
+    {"product_id": 6, "feature": "Compatible con sello de 1/2\" y 5/8\""},
+
+    {"product_id": 7, "feature": "Compatible con rollos de fleje de 16\" de diámetro interior x 3\" o 6\" de ancho"},
+    {"product_id": 7, "feature": "Evita que el rollo se desmadeje"},
+    {"product_id": 7, "feature": "Fleja de manera eficiente"},
+    {"product_id": 7, "feature": "Armazón construido en acero"},
+    {"product_id": 7, "feature": "Posee rodamientos para un fácil transporte"},
+    {"product_id": 7, "feature": "Incluye una bandeja para el transporte de herramientas"},
+    {"product_id": 7, "feature": "Complementos ideales: <a href=\"/products/details/4\" class=\"underline\">Pinzas p/ fleje de plástico</a>, <a href=\"/products/details/6\" class=\"underline\">Tensionera manual</a>, <a href=\"/products/details/5\" class=\"underline\">Grapa de metal</a>"},
+
+    {"product_id": 8, "feature": "Disponible en 3/8\" y 1/2\""},
+    {"product_id": 9, "feature": "Disponible en 3/8\" y 1/2\""},
+
+    {"product_id": 10, "feature": "Ideal para cargas pesadas"},
+    {"product_id": 10, "feature": "Uso manual"},
+    {"product_id": 10, "feature": "Calibres: 0.20, 0.25, 0.35, 0.40"},
+    {"product_id": 10, "feature": "Resistencia a la tensión de hasta 600 kilos"},
+
+    {"product_id": 11, "feature": "Ideal para cargas pesadas"},
+    {"product_id": 11, "feature": "Uso manual"},
+    {"product_id": 11, "feature": "Calibres: 0.20, 0.25, 0.35, 0.40"},
+    {"product_id": 11, "feature": "Resistencia a la tensión de hasta 600 kilos"},
+
+    {"product_id": 12, "feature": "Ideal para cargas pesadas"},
+    {"product_id": 12, "feature": "Uso manual"},
+    {"product_id": 12, "feature": "Calibres: 0.20, 0.25, 0.35, 0.40"},
+
+    {"product_id": 13, "feature": "Ideal para cargas pesadas"},
+    {"product_id": 13, "feature": "Uso manual"},
+    {"product_id": 13, "feature": "Calibres: 0.20, 0.25, 0.35, 0.40"},
+
+    {"product_id": 17, "feature": "Ancho para uso manual: 3\", 5\" y 18\""},
+    {"product_id": 17, "feature": "Ancho para uso automático: 20\""},
+
+    {"product_id": 18, "feature": "Color negro"},
+    {"product_id": 18, "feature": "Apilable"},
+    {"product_id": 18, "feature": "Medidas: 100cm x 120cm x 13h"},
+    {"product_id": 18, "feature": "Peso: 7.8 Kg"},
+    {"product_id": 18, "feature": "Capacidad de carga estática: 1000 Kg"},
+    {"product_id": 18, "feature": "Capacidad de carga dinámica: 1000 Kg"}
+
+]
