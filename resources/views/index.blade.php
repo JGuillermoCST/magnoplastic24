@@ -4,7 +4,6 @@
         @include('structure.head')
 
         <style>
-
             .fps-svg-title, .as-svg-title {
             font   : bold 70px Century Gothic, Arial;
             width  : 100%;
@@ -31,23 +30,13 @@
 
         @include('structure.header')
 
-        {{-- <div class="mx-4 lg:mx-8 mb-4 rounded-lg bg-success-100 px-6 py-5 text-base text-success-800" role="alert">
-            Última actualización: Junio 15, 15:00 CST
-        </div>
-
-        <div class="mx-4 lg:mx-8 mb-4 rounded-lg bg-warning-100 px-6 py-5 text-base text-warning-800" role="alert">
-            Sitio en términos de desarrollo, pronto estará disponible para el público.
-        </div> --}}
-
         <main class="flex flex-col">
-
             @include('components.main-title-pres')
             @include('components.featured-products')
             @include('components.about')
             @include('components.why-us')
             @include('components.hero-yt', ['title' => __('focus transport'),'ytid' => 'JDH7NgcN5hs'])
             @include('components.contact-card')
-
         </main>
 
         @include('structure.footer')

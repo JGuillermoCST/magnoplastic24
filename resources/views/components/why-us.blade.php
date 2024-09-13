@@ -1,3 +1,5 @@
+{{-- Sección "por qué elegirnos" --}}
+
 <section class="w-11/12 mb-16 mx-auto text-gray-800 text-center lg:text-left">
     <div class="block rounded-lg shadow-lg bg-white dark:bg-gray-800">
         <div class="flex flex-wrap items-center">
@@ -14,17 +16,17 @@
                     </p>
 
                     <div class="grid lg:gap-x-12 md:grid-cols-3">
-                    <div class="mb-12 md:mb-0">
-                        <h4 class="text-xl font-bold text-blue-600 dark:text-white mb-4">@lang('page.more-clients')</h4>
-                    </div>
+                        <div class="mb-12 md:mb-0">
+                            <h4 class="text-xl font-bold text-blue-600 dark:text-white mb-4">@lang('page.more-clients')</h4>
+                        </div>
 
-                    <div class="mb-12 md:mb-0">
-                        <h4 class="text-xl font-bold text-blue-600 dark:text-white mb-4">@lang('page.more-upgrade')</h4>
-                    </div>
+                        <div class="mb-12 md:mb-0">
+                            <h4 class="text-xl font-bold text-blue-600 dark:text-white mb-4">@lang('page.more-upgrade')</h4>
+                        </div>
 
-                    <div class="">
-                        <h4 class="text-xl font-bold text-blue-600 dark:text-white mb-4">@lang('page.more-products')</h4>
-                    </div>
+                        <div class="">
+                            <h4 class="text-xl font-bold text-blue-600 dark:text-white mb-4">@lang('page.more-products')</h4>
+                        </div>
                     </div>
                 </div>
             </div>
